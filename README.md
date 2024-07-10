@@ -1,6 +1,6 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90)
+![image](https://github.com/dbsrjs/dbsrjs/assets/124150775/41c9f88b-8b8f-4efd-9626-e038b753b984)<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=300&section=header&text=Welcome&fontSize=90)
   
  # My name is Jiseong Min
 
