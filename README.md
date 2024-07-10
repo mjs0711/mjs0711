@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=300&section=header&text=Welcome&fontSize=90)
   
- # My name is Jiseong Min
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=%2390EE90&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Jiseong+Min+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
  ### My favorite language is JAVA
  ### I am currently studying Python and JAVA
