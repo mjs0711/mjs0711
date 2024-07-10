@@ -4,11 +4,13 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=%2390EE90&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Jiseong+Min+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
+ <div align="center">
+<div align="center">
+
  ### My favorite language is JAVA
  ### I am currently studying Python and JAVA
 
- <div align="center">
-<div align="center">
+
  
 # My information<br>
 
