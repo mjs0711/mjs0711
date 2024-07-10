@@ -2,15 +2,14 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90)
   
- # My name is Hangyeol Park
+ # My name is Jiseong Min
 
  ### My favorite language is JAVA
  ### I am currently studying Python and JAVA
  
 # My information<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkhangyeol)](https://solved.ac/parkhangyeol/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hangyeol0516&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjs0711&show_icons=true&theme=radical)
 
 # Skills<br>
 ### Platforms & Languages
@@ -25,10 +24,6 @@
 
 | What | When | How | Where |
 |:--------:|:--------:|:--------:|:--------:|
-| 성일정보고등학교 방과후 자바 기초 | 2023. 04 ~ 2023. 07 | 자바 기초 강좌   | Sungil Information High School |  
-| 성일정보고등학교 소프트웨어 스터디 알고리즘 분야 | 2023. 04 ~ 2024. 03 | 개발자로서의 자질 기르기  | Sungil Information High School |
-| 성일정보고등학교 소프트웨어 스터디 앱 분야 | 2024. 03 ~ 현재 | 앱개발 스터디  | Sungil Information High School |
-| 성일정보고등학교 방과후 웹개발 기초 | 2023. 08 ~ 2024. 12 | 웹개발 기초 강좌   | Sungil Information High School |  
-| 성일정보고등학교 방과후 자바 심화 | 2023. 08 ~ 2024. 12 | 자바 심화 강좌   | Sungil Information High School |  
-| 성일정보고등학교 방과후 자바 Level 2 | 2024. 04 ~ 현재 | 자바 Level 2   | Sungil Information High School |  
+| 성일정보고등학교 방과후 자바 기초 | 2023. 04 ~ 2023. 07 | 자바 기초 강좌   | Sungil Information High School |    
+| 성일정보고등학교 방과후 자바 Level 1 | 2024. 04 ~ 현재 | 자바 Level 2   | Sungil Information High School |  
 </div>
