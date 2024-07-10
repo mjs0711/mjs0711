@@ -22,7 +22,6 @@
 ![Java](https://img.shields.io/badge/Java-0B4984.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Tools<br>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
 
 <h1> Experience </h1>
