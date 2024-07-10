@@ -6,6 +6,9 @@
 
  ### My favorite language is JAVA
  ### I am currently studying Python and JAVA
+
+ <div align="center">
+<div align="center">
  
 # My information<br>
 
