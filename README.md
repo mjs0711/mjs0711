@@ -24,6 +24,7 @@
 
 | What | When | How | Where |
 |:--------:|:--------:|:--------:|:--------:|
+| 성일정보고등학교 파이썬 | 2023. 04 ~ 2023. 12 | 파이썬 | Sungil Information High School |
 | 성일정보고등학교 방과후 자바 기초 | 2023. 04 ~ 2023. 07 | 자바 기초 강좌   | Sungil Information High School |    
 | 성일정보고등학교 방과후 자바 Level 1 | 2024. 04 ~ 현재 | 자바 Level 2   | Sungil Information High School |  
 </div>
