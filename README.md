@@ -32,6 +32,6 @@
 | 성일정보고등학교 파이썬 | 2023. 04 ~ 2023. 12 | 파이썬 | Sungil Information High School |
 | 성일정보고등학교 방과후 자바 기초 | 2023. 04 ~ 2023. 07 | 자바 기초 강좌   | Sungil Information High School |    
 | 성일정보고등학교 방과후 자바  | 2024. 04 ~ 07 | 자바 Level 2   | Sungil Information High School | 
-| 성일정보고 SIEC E-Sports 동아리 | 𝟮𝟬𝟮𝟰. 𝟎𝟑 ~ 현재 | meeting | 𝗦𝗜𝗘𝗖 / 𝗘-𝗦𝗽𝗼𝗿𝘁𝘀 |
+| 성일정보고 SIEC E-Sports 동아리 | 2024. 03 ~ 현재 | meeting | SIEC / E-Sport |
 | 성일정보고등학교 방과후 자바  | 2024. 08 ~ 현재 | 자바 Level 3   | Sungil Information High School |
 </div>
