@@ -14,7 +14,7 @@
  
 # My information<br>
 
-![민지성's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjs0711&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hangyeol0516&show_icons=true&theme=radical)
 
 # Skills<br>
 ### Platforms & Languages
